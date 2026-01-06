@@ -1,0 +1,7 @@
+# Ignore Excel and CSV files anywhere
+*.xlsx
+*.csv
+
+# Or ignore only specific files in subfolders
+db/employee_info_data.csv
+reconomy-excel.xlsx
